@@ -1,0 +1,5 @@
+#.htaccess
+#Options -Indexes
+DirectoryIndex _index.html
+#IndexIgnore *.php
+Redirect "/reg_web-v5a.php" "http://localhost/reg_web-v5b.php"

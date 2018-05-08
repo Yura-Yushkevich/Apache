@@ -1,0 +1,279 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 16:14:14.114022 2018] [mpm_winnt:notice] [pid 6032:tid 372] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 01 16:14:14.114022 2018] [mpm_winnt:notice] [pid 6032:tid 372] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 01 16:14:14.114022 2018] [core:notice] [pid 6032:tid 372] AH00094: Command line: 'httpd.exe -d D:/Apache24'
+[Tue May 01 16:14:14.118022 2018] [mpm_winnt:notice] [pid 6032:tid 372] AH00418: Parent: Created child process 8364
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+Apache server interrupted...
+ reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 16:14:14.435040 2018] [mpm_winnt:notice] [pid 8364:tid 388] AH00354: Child: Starting 64 worker threads.
+[Tue May 01 16:16:23.296411 2018] [mpm_winnt:notice] [pid 6032:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Tue May 01 16:16:47.818796 2018] [mpm_winnt:notice] [pid 8364:tid 388] AH00364: Child: All worker threads have exited.
+[Tue May 01 16:16:47.968796 2018] [mpm_winnt:notice] [pid 6032:tid 372] AH00430: Parent: Child process 8364 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 16:22:49.294581 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 01 16:22:49.295581 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 01 16:22:49.295581 2018] [core:notice] [pid 3588:tid 452] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 01 16:22:49.299582 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00418: Parent: Created child process 8724
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 16:22:49.649602 2018] [mpm_winnt:notice] [pid 8724:tid 392] AH00354: Child: Starting 64 worker threads.
+[Tue May 01 20:40:12.977910 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:40:13.095916 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 01 20:40:13.095916 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 01 20:40:13.095916 2018] [core:notice] [pid 3588:tid 452] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 01 20:40:13.099917 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00418: Parent: Created child process 9716
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:40:13.977967 2018] [mpm_winnt:notice] [pid 9716:tid 392] AH00354: Child: Starting 64 worker threads.
+[Tue May 01 20:40:14.978024 2018] [mpm_winnt:notice] [pid 8724:tid 392] AH00364: Child: All worker threads have exited.
+[Tue May 01 20:43:24.675874 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:43:24.768879 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 01 20:43:24.768879 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 01 20:43:24.768879 2018] [core:notice] [pid 3588:tid 452] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 01 20:43:24.770879 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00418: Parent: Created child process 7120
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:43:25.678931 2018] [mpm_winnt:notice] [pid 7120:tid 392] AH00354: Child: Starting 64 worker threads.
+[Tue May 01 20:43:26.678989 2018] [mpm_winnt:notice] [pid 9716:tid 392] AH00364: Child: All worker threads have exited.
+[Tue May 01 20:48:03.027795 2018] [autoindex:error] [pid 7120:tid 948] [client ::1:1250] AH01276: Cannot serve directory D:/Apache24/htdocs/: No matching DirectoryIndex (_index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 01 20:48:43.921134 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:48:44.017139 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 01 20:48:44.017139 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 01 20:48:44.017139 2018] [core:notice] [pid 3588:tid 452] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 01 20:48:44.020139 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00418: Parent: Created child process 7248
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:48:44.922191 2018] [mpm_winnt:notice] [pid 7248:tid 392] AH00354: Child: Starting 64 worker threads.
+[Tue May 01 20:48:48.757410 2018] [authz_core:error] [pid 7248:tid 944] [client ::1:1255] AH01630: client denied by server configuration: D:/Apache24/htdocs/.htaccess
+[Tue May 01 20:48:48.822414 2018] [mpm_winnt:notice] [pid 7120:tid 392] AH00364: Child: All worker threads have exited.
+[Tue May 01 20:50:04.061718 2018] [autoindex:error] [pid 7248:tid 944] [client ::1:1264] AH01276: Cannot serve directory D:/Apache24/htdocs/: No matching DirectoryIndex (_index.html) found, and server-generated directory index forbidden by Options directive
+[Tue May 01 20:50:20.878679 2018] [authz_core:error] [pid 7248:tid 944] [client ::1:1266] AH01630: client denied by server configuration: D:/Apache24/htdocs/.htaccess
+[Tue May 01 20:52:59.158733 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:52:59.274739 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 01 20:52:59.274739 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 01 20:52:59.274739 2018] [core:notice] [pid 3588:tid 452] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 01 20:52:59.277739 2018] [mpm_winnt:notice] [pid 3588:tid 452] AH00418: Parent: Created child process 4400
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 01 20:53:00.159790 2018] [mpm_winnt:notice] [pid 4400:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue May 01 20:53:01.159847 2018] [mpm_winnt:notice] [pid 7248:tid 392] AH00364: Child: All worker threads have exited.
+[Tue May 01 20:53:07.125188 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1281] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 20:53:07.132189 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1281] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 20:57:29.729208 2018] [authz_core:error] [pid 4400:tid 948] [client ::1:1302] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 20:57:29.733209 2018] [authz_core:error] [pid 4400:tid 948] [client ::1:1302] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:55.515979 2018] [authz_core:error] [pid 4400:tid 940] [client ::1:1332] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:55.523979 2018] [authz_core:error] [pid 4400:tid 940] [client ::1:1332] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:56.498035 2018] [authz_core:error] [pid 4400:tid 940] [client ::1:1332] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:56.499035 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1333] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:57.111070 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1333] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:57.118070 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1333] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:57.860113 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1333] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:00:57.867113 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1333] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:01:14.632072 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1336] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:01:14.649073 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1336] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:01:55.172391 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1354] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:16.347602 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1358] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:16.366603 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1358] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:16.375604 2018] [authz_core:error] [pid 4400:tid 944] [client ::1:1358] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:54.480783 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:54.495784 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:54.502784 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:54.940809 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:54.950810 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:54.952810 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:55.887864 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:55.893864 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:55.899864 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:56.487898 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:56.499899 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:56.500899 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:57.576960 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:57.585961 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:57.586961 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:59.549073 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:59.559074 2018] [authz_core:error] [pid 4400:tid 932] [client ::1:1368] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:02:59.565074 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1369] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:15:26.360788 2018] [core:alert] [pid 4400:tid 932] [client ::1:1440] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:32.882161 2018] [core:alert] [pid 4400:tid 928] [client ::1:1441] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:35.321301 2018] [core:alert] [pid 4400:tid 924] [client ::1:1442] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:45.810901 2018] [core:alert] [pid 4400:tid 924] [client ::1:1445] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:46.544943 2018] [core:alert] [pid 4400:tid 952] [client ::1:1446] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:47.088974 2018] [core:alert] [pid 4400:tid 952] [client ::1:1447] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:47.321987 2018] [core:alert] [pid 4400:tid 952] [client ::1:1448] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:47.583002 2018] [core:alert] [pid 4400:tid 952] [client ::1:1449] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:15:51.999255 2018] [core:alert] [pid 4400:tid 952] [client ::1:1451] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:16:08.822217 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1452] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:08.828217 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1452] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:08.832217 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1453] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:27.161266 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:27.168266 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1455] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:27.178267 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:28.993370 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:28.994371 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1455] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:28.995371 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1456] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:29.638407 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1455] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:29.644408 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1456] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:29.644408 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:30.425452 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1456] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:30.438453 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1456] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:30.438453 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:31.472512 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:31.492513 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1456] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:31.494514 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1455] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:32.143551 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1455] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:32.153551 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1456] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:32.153551 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1454] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:51.760673 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1466] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:51.779674 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1466] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:51.782674 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1466] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:52.796732 2018] [authz_core:error] [pid 4400:tid 924] [client ::1:1466] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:52.797732 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1468] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:52.797732 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1467] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:53.722785 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1468] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:53.729785 2018] [authz_core:error] [pid 4400:tid 928] [client ::1:1468] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:16:53.734786 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1467] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:17:09.572692 2018] [core:alert] [pid 4400:tid 952] [client ::1:1471] D:/Apache24/htdocs/.htaccess: Redirect to non-URL
+[Tue May 01 21:17:29.117809 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1478] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:17:29.123810 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1478] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:17:29.132810 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1478] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:30.421316 2018] [authz_core:error] [pid 4400:tid 936] [client ::1:1492] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:30.422316 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1493] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:30.424316 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1493] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:42.026980 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1508] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:42.031980 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1508] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:42.038980 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1508] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:42.974034 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1508] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:42.983034 2018] [authz_core:error] [pid 4400:tid 936] [client ::1:1509] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:18:42.984034 2018] [authz_core:error] [pid 4400:tid 948] [client ::1:1510] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:21:16.944840 2018] [authz_core:error] [pid 4400:tid 940] [client ::1:1661] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:21:16.946840 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1662] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 01 21:21:16.955841 2018] [authz_core:error] [pid 4400:tid 952] [client ::1:1662] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 07 13:35:51.583983 2018] [core:warn] [pid 5444:tid 360] AH00098: pid file D:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 07 13:35:51.590984 2018] [mpm_winnt:notice] [pid 5444:tid 360] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Mon May 07 13:35:51.590984 2018] [mpm_winnt:notice] [pid 5444:tid 360] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Mon May 07 13:35:51.590984 2018] [core:notice] [pid 5444:tid 360] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon May 07 13:35:51.599984 2018] [mpm_winnt:notice] [pid 5444:tid 360] AH00418: Parent: Created child process 3904
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+Apache server shutdown initiated...
+ly determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 07 13:35:51.882000 2018] [mpm_winnt:notice] [pid 3904:tid 388] AH00354: Child: Starting 64 worker threads.
+[Mon May 07 13:35:59.241421 2018] [mpm_winnt:notice] [pid 5444:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 07 13:36:01.241536 2018] [mpm_winnt:notice] [pid 3904:tid 388] AH00364: Child: All worker threads have exited.
+[Mon May 07 13:36:01.260537 2018] [mpm_winnt:notice] [pid 5444:tid 360] AH00430: Parent: Child process 3904 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 07 13:36:08.862972 2018] [mpm_winnt:notice] [pid 6124:tid 452] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Mon May 07 13:36:08.863972 2018] [mpm_winnt:notice] [pid 6124:tid 452] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Mon May 07 13:36:08.863972 2018] [core:notice] [pid 6124:tid 452] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Mon May 07 13:36:08.866972 2018] [mpm_winnt:notice] [pid 6124:tid 452] AH00418: Parent: Created child process 8156
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 07 13:36:09.202991 2018] [mpm_winnt:notice] [pid 8156:tid 392] AH00354: Child: Starting 64 worker threads.
+[Mon May 07 13:36:24.498866 2018] [authz_core:error] [pid 8156:tid 912] [client ::1:15019] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Mon May 07 13:36:24.506867 2018] [authz_core:error] [pid 8156:tid 912] [client ::1:15019] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Mon May 07 13:36:24.519867 2018] [authz_core:error] [pid 8156:tid 908] [client ::1:15020] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Mon May 07 13:50:48.420280 2018] [mpm_winnt:notice] [pid 6124:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 07 13:50:50.420394 2018] [mpm_winnt:notice] [pid 8156:tid 392] AH00364: Child: All worker threads have exited.
+[Mon May 07 13:50:50.440395 2018] [mpm_winnt:notice] [pid 6124:tid 452] AH00430: Parent: Child process 8156 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ly determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 15:36:59.664769 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 15:36:59.666769 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 15:36:59.666769 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 15:36:59.672769 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 7156
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 15:37:00.054791 2018] [mpm_winnt:notice] [pid 7156:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 15:39:39.104888 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 15:39:39.211894 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 15:39:39.211894 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 15:39:39.211894 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 15:39:39.214895 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 8528
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 15:39:40.104945 2018] [mpm_winnt:notice] [pid 8528:tid 396] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 15:39:41.106003 2018] [mpm_winnt:notice] [pid 7156:tid 396] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:39:18.327608 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:39:18.417613 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:39:18.417613 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:39:18.417613 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:39:18.421613 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 1980
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:39:19.327665 2018] [mpm_winnt:notice] [pid 1980:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:39:20.327722 2018] [mpm_winnt:notice] [pid 8528:tid 396] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:43:55.564465 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:43:55.653470 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:43:55.654470 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:43:55.654470 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:43:55.656470 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 7148
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:43:56.564522 2018] [mpm_winnt:notice] [pid 7148:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:43:57.564580 2018] [mpm_winnt:notice] [pid 1980:tid 404] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:44:04.900999 2018] [authz_core:error] [pid 7148:tid 956] [client ::1:20098] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 08 16:44:04.909000 2018] [authz_core:error] [pid 7148:tid 960] [client ::1:20097] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 08 16:44:04.909000 2018] [authz_core:error] [pid 7148:tid 944] [client ::1:20099] AH01630: client denied by server configuration: C:/Apache24, referer: http://localhost/
+[Tue May 08 16:45:22.302426 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:45:22.409432 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:45:22.409432 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:45:22.409432 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:45:22.412433 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 5660
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:45:23.303483 2018] [mpm_winnt:notice] [pid 5660:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:45:26.603672 2018] [mpm_winnt:notice] [pid 7148:tid 404] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:47:55.726202 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:47:55.816207 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:47:55.816207 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:47:55.816207 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:47:55.819207 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 6840
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:47:56.730259 2018] [mpm_winnt:notice] [pid 6840:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:47:57.730316 2018] [mpm_winnt:notice] [pid 5660:tid 404] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:49:15.004736 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:49:15.080740 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:49:15.080740 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:49:15.080740 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:49:15.082741 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 7000
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:49:16.004793 2018] [mpm_winnt:notice] [pid 7000:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:49:17.004850 2018] [mpm_winnt:notice] [pid 6840:tid 400] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:50:42.702752 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:50:42.778756 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:50:42.778756 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:50:42.778756 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:50:42.782757 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 5700
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:50:43.702809 2018] [mpm_winnt:notice] [pid 5700:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:50:44.702866 2018] [mpm_winnt:notice] [pid 7000:tid 400] AH00364: Child: All worker threads have exited.
+[Tue May 08 16:53:50.468492 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:53:50.622500 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00455: Apache/2.4.33 (Win64) configured -- resuming normal operations
+[Tue May 08 16:53:50.622500 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00456: Apache Lounge VC15 Server built: Mar 28 2018 12:38:12
+[Tue May 08 16:53:50.622500 2018] [core:notice] [pid 5020:tid 456] AH00094: Command line: 'D:\\Apache24\\bin\\httpd.exe -d D:/Apache24'
+[Tue May 08 16:53:50.625501 2018] [mpm_winnt:notice] [pid 5020:tid 456] AH00418: Parent: Created child process 204
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.56.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 08 16:53:51.469549 2018] [mpm_winnt:notice] [pid 204:tid 400] AH00354: Child: Starting 64 worker threads.
+[Tue May 08 16:53:52.469606 2018] [mpm_winnt:notice] [pid 5700:tid 400] AH00364: Child: All worker threads have exited.
